@@ -1,4 +1,4 @@
-This is an website named Aetcm-2K24 which wcreated for a National level Technical Symposium for the purpose of registration.
+This is an website named Aetcm-2K24 which wcreated for a National level Technical Symposium held at Achariya College of Engineering Technology for the purpose of registration.
 
 1. Home Page
 
